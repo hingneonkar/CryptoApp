@@ -1,2 +1,3 @@
 # Cryptoapp
-React App
+React Application with Crypto Coins Api
+Using Axios 
